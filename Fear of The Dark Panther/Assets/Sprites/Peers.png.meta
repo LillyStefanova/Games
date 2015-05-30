@@ -1,0 +1,1111 @@
+fileFormatVersion: 2
+guid: c30f6a1f745b6524b8c7cf757ab95331
+timeCreated: 1432559900
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: animalscrbetween_0
+    21300002: animalscrbetween_1
+    21300004: animalscrbetween_2
+    21300006: animalscrbetween_3
+    21300008: animalscrbetween_4
+    21300010: animalscrbetween_5
+    21300012: animalscrbetween_6
+    21300014: animalscrbetween_7
+    21300016: animalscrbetween_8
+    21300018: animalscrbetween_9
+    21300020: animalscrbetween_10
+    21300022: animalscrbetween_11
+    21300024: animalscrbetween_12
+    21300026: animalscrbetween_13
+    21300028: animalscrbetween_14
+    21300030: animalscrbetween_15
+    21300032: animalscrbetween_16
+    21300034: animalscrbetween_17
+    21300036: animalscrbetween_18
+    21300038: animalscrbetween_19
+    21300040: animalscrbetween_20
+    21300042: animalscrbetween_21
+    21300044: animalscrbetween_22
+    21300046: animalscrbetween_23
+    21300048: animalscrbetween_24
+    21300050: animalscrbetween_25
+    21300052: animalscrbetween_26
+    21300054: animalscrbetween_27
+    21300056: animalscrbetween_28
+    21300058: animalscrbetween_29
+    21300060: animalscrbetween_30
+    21300062: animalscrbetween_31
+    21300064: animalscrbetween_32
+    21300066: animalscrbetween_33
+    21300068: animalscrbetween_34
+    21300070: animalscrbetween_35
+    21300072: animalscrbetween_36
+    21300074: animalscrbetween_37
+    21300076: animalscrbetween_38
+    21300078: animalscrbetween_39
+    21300080: animalscrbetween_40
+    21300082: animalscrbetween_41
+    21300084: animalscrbetween_42
+    21300086: animalscrbetween_43
+    21300088: animalscrbetween_44
+    21300090: animalscrbetween_45
+    21300092: animalscrbetween_46
+    21300094: animalscrbetween_47
+    21300096: animalscrbetween_48
+    21300098: animalscrbetween_49
+    21300100: animalscrbetween_50
+    21300102: animalscrbetween_51
+    21300104: animalscrbetween_52
+    21300106: animalscrbetween_53
+    21300108: animalscrbetween_54
+    21300110: animalscrbetween_55
+    21300112: animalscrbetween_56
+    21300114: animalscrbetween_57
+    21300116: animalscrbetween_58
+    21300118: animalscrbetween_59
+    21300120: animalscrbetween_60
+    21300122: animalscrbetween_61
+    21300124: animalscrbetween_62
+    21300126: animalscrbetween_63
+    21300128: animalscrbetween_64
+    21300130: animalscrbetween_65
+    21300132: animalscrbetween_66
+    21300134: animalscrbetween_67
+    21300136: animalscrbetween_68
+    21300138: animalscrbetween_69
+    21300140: animalscrbetween_70
+    21300142: animalscrbetween_71
+    21300144: animalscrbetween_72
+    21300146: animalscrbetween_73
+    21300148: animalscrbetween_74
+    21300150: animalscrbetween_75
+    21300152: animalscrbetween_76
+    21300154: animalscrbetween_77
+    21300156: animalscrbetween_78
+    21300158: animalscrbetween_79
+    21300160: animalscrbetween_80
+    21300162: animalscrbetween_81
+    21300164: animalscrbetween_82
+    21300166: animalscrbetween_83
+    21300168: animalscrbetween_84
+    21300170: animalscrbetween_85
+    21300172: animalscrbetween_86
+    21300174: animalscrbetween_87
+    21300176: animalscrbetween_88
+    21300178: animalscrbetween_89
+    21300180: animalscrbetween_90
+    21300182: animalscrbetween_91
+    21300184: animalscrbetween_92
+    21300186: animalscrbetween_93
+    21300188: animalscrbetween_94
+    21300190: animalscrbetween_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: animalscrbetween_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 224
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 224
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 224
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 226
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 226
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 226
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 225
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 228
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 225
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 226
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 226
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 226
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 193
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 194
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 194
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 194
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 193
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 195
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 193
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 194
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_22
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 194
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 194
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 160
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 161
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 162
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 162
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 162
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 161
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 163
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 161
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 162
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_34
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 162
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 162
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 128
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 129
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 128
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 131
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_40
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 130
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 131
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 129
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 131
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 129
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_45
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 130
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_46
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 130
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_47
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 130
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 100
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_49
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 100
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 100
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 97
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 97
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 97
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 99
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_55
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 97
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_56
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 96
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_57
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 100
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_58
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 97
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 100
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 68
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_62
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 68
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_63
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 65
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 65
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 65
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_66
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 65
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_67
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 65
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_68
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 64
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_69
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 67
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_70
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 65
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_71
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 64
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_72
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 36
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_73
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_74
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 36
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 33
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 33
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 33
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_78
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 33
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_79
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 33
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_80
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 32
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_81
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 35
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_82
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 33
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_83
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 32
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_85
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_86
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_87
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_88
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_89
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_90
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_91
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_93
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_94
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: animalscrbetween_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 5
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

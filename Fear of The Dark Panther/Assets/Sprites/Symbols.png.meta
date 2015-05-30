@@ -1,0 +1,1628 @@
+fileFormatVersion: 2
+guid: cc37126463afc6c4f87ce4c23ca859eb
+timeCreated: 1432237420
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: glyphicons-halflings-sprite-sheet_0
+    21300002: glyphicons-halflings-sprite-sheet_1
+    21300004: glyphicons-halflings-sprite-sheet_2
+    21300006: glyphicons-halflings-sprite-sheet_3
+    21300008: glyphicons-halflings-sprite-sheet_4
+    21300010: glyphicons-halflings-sprite-sheet_5
+    21300012: glyphicons-halflings-sprite-sheet_6
+    21300014: glyphicons-halflings-sprite-sheet_7
+    21300016: glyphicons-halflings-sprite-sheet_8
+    21300018: glyphicons-halflings-sprite-sheet_9
+    21300020: glyphicons-halflings-sprite-sheet_10
+    21300022: glyphicons-halflings-sprite-sheet_11
+    21300024: glyphicons-halflings-sprite-sheet_12
+    21300026: glyphicons-halflings-sprite-sheet_13
+    21300028: glyphicons-halflings-sprite-sheet_14
+    21300030: glyphicons-halflings-sprite-sheet_15
+    21300032: glyphicons-halflings-sprite-sheet_16
+    21300034: glyphicons-halflings-sprite-sheet_17
+    21300036: glyphicons-halflings-sprite-sheet_18
+    21300038: glyphicons-halflings-sprite-sheet_19
+    21300040: glyphicons-halflings-sprite-sheet_20
+    21300042: glyphicons-halflings-sprite-sheet_21
+    21300044: glyphicons-halflings-sprite-sheet_22
+    21300046: glyphicons-halflings-sprite-sheet_23
+    21300048: glyphicons-halflings-sprite-sheet_24
+    21300050: glyphicons-halflings-sprite-sheet_25
+    21300052: glyphicons-halflings-sprite-sheet_26
+    21300054: glyphicons-halflings-sprite-sheet_27
+    21300056: glyphicons-halflings-sprite-sheet_28
+    21300058: glyphicons-halflings-sprite-sheet_29
+    21300060: glyphicons-halflings-sprite-sheet_30
+    21300062: glyphicons-halflings-sprite-sheet_31
+    21300064: glyphicons-halflings-sprite-sheet_32
+    21300066: glyphicons-halflings-sprite-sheet_33
+    21300068: glyphicons-halflings-sprite-sheet_34
+    21300070: glyphicons-halflings-sprite-sheet_35
+    21300072: glyphicons-halflings-sprite-sheet_36
+    21300074: glyphicons-halflings-sprite-sheet_37
+    21300076: glyphicons-halflings-sprite-sheet_38
+    21300078: glyphicons-halflings-sprite-sheet_39
+    21300080: glyphicons-halflings-sprite-sheet_40
+    21300082: glyphicons-halflings-sprite-sheet_41
+    21300084: glyphicons-halflings-sprite-sheet_42
+    21300086: glyphicons-halflings-sprite-sheet_43
+    21300088: glyphicons-halflings-sprite-sheet_44
+    21300090: glyphicons-halflings-sprite-sheet_45
+    21300092: glyphicons-halflings-sprite-sheet_46
+    21300094: glyphicons-halflings-sprite-sheet_47
+    21300096: glyphicons-halflings-sprite-sheet_48
+    21300098: glyphicons-halflings-sprite-sheet_49
+    21300100: glyphicons-halflings-sprite-sheet_50
+    21300102: glyphicons-halflings-sprite-sheet_51
+    21300104: glyphicons-halflings-sprite-sheet_52
+    21300106: glyphicons-halflings-sprite-sheet_53
+    21300108: glyphicons-halflings-sprite-sheet_54
+    21300110: glyphicons-halflings-sprite-sheet_55
+    21300112: glyphicons-halflings-sprite-sheet_56
+    21300114: glyphicons-halflings-sprite-sheet_57
+    21300116: glyphicons-halflings-sprite-sheet_58
+    21300118: glyphicons-halflings-sprite-sheet_59
+    21300120: glyphicons-halflings-sprite-sheet_60
+    21300122: glyphicons-halflings-sprite-sheet_61
+    21300124: glyphicons-halflings-sprite-sheet_62
+    21300126: glyphicons-halflings-sprite-sheet_63
+    21300128: glyphicons-halflings-sprite-sheet_64
+    21300130: glyphicons-halflings-sprite-sheet_65
+    21300132: glyphicons-halflings-sprite-sheet_66
+    21300134: glyphicons-halflings-sprite-sheet_67
+    21300136: glyphicons-halflings-sprite-sheet_68
+    21300138: glyphicons-halflings-sprite-sheet_69
+    21300140: glyphicons-halflings-sprite-sheet_70
+    21300142: glyphicons-halflings-sprite-sheet_71
+    21300144: glyphicons-halflings-sprite-sheet_72
+    21300146: glyphicons-halflings-sprite-sheet_73
+    21300148: glyphicons-halflings-sprite-sheet_74
+    21300150: glyphicons-halflings-sprite-sheet_75
+    21300152: glyphicons-halflings-sprite-sheet_76
+    21300154: glyphicons-halflings-sprite-sheet_77
+    21300156: glyphicons-halflings-sprite-sheet_78
+    21300158: glyphicons-halflings-sprite-sheet_79
+    21300160: glyphicons-halflings-sprite-sheet_80
+    21300162: glyphicons-halflings-sprite-sheet_81
+    21300164: glyphicons-halflings-sprite-sheet_82
+    21300166: glyphicons-halflings-sprite-sheet_83
+    21300168: glyphicons-halflings-sprite-sheet_84
+    21300170: glyphicons-halflings-sprite-sheet_85
+    21300172: glyphicons-halflings-sprite-sheet_86
+    21300174: glyphicons-halflings-sprite-sheet_87
+    21300176: glyphicons-halflings-sprite-sheet_88
+    21300178: glyphicons-halflings-sprite-sheet_89
+    21300180: glyphicons-halflings-sprite-sheet_90
+    21300182: glyphicons-halflings-sprite-sheet_91
+    21300184: glyphicons-halflings-sprite-sheet_92
+    21300186: glyphicons-halflings-sprite-sheet_93
+    21300188: glyphicons-halflings-sprite-sheet_94
+    21300190: glyphicons-halflings-sprite-sheet_95
+    21300192: glyphicons-halflings-sprite-sheet_96
+    21300194: glyphicons-halflings-sprite-sheet_97
+    21300196: glyphicons-halflings-sprite-sheet_98
+    21300198: glyphicons-halflings-sprite-sheet_99
+    21300200: glyphicons-halflings-sprite-sheet_100
+    21300202: glyphicons-halflings-sprite-sheet_101
+    21300204: glyphicons-halflings-sprite-sheet_102
+    21300206: glyphicons-halflings-sprite-sheet_103
+    21300208: glyphicons-halflings-sprite-sheet_104
+    21300210: glyphicons-halflings-sprite-sheet_105
+    21300212: glyphicons-halflings-sprite-sheet_106
+    21300214: glyphicons-halflings-sprite-sheet_107
+    21300216: glyphicons-halflings-sprite-sheet_108
+    21300218: glyphicons-halflings-sprite-sheet_109
+    21300220: glyphicons-halflings-sprite-sheet_110
+    21300222: glyphicons-halflings-sprite-sheet_111
+    21300224: glyphicons-halflings-sprite-sheet_112
+    21300226: glyphicons-halflings-sprite-sheet_113
+    21300228: glyphicons-halflings-sprite-sheet_114
+    21300230: glyphicons-halflings-sprite-sheet_115
+    21300232: glyphicons-halflings-sprite-sheet_116
+    21300234: glyphicons-halflings-sprite-sheet_117
+    21300236: glyphicons-halflings-sprite-sheet_118
+    21300238: glyphicons-halflings-sprite-sheet_119
+    21300240: glyphicons-halflings-sprite-sheet_120
+    21300242: glyphicons-halflings-sprite-sheet_121
+    21300244: glyphicons-halflings-sprite-sheet_122
+    21300246: glyphicons-halflings-sprite-sheet_123
+    21300248: glyphicons-halflings-sprite-sheet_124
+    21300250: glyphicons-halflings-sprite-sheet_125
+    21300252: glyphicons-halflings-sprite-sheet_126
+    21300254: glyphicons-halflings-sprite-sheet_127
+    21300256: glyphicons-halflings-sprite-sheet_128
+    21300258: glyphicons-halflings-sprite-sheet_129
+    21300260: glyphicons-halflings-sprite-sheet_130
+    21300262: glyphicons-halflings-sprite-sheet_131
+    21300264: glyphicons-halflings-sprite-sheet_132
+    21300266: glyphicons-halflings-sprite-sheet_133
+    21300268: glyphicons-halflings-sprite-sheet_134
+    21300270: glyphicons-halflings-sprite-sheet_135
+    21300272: glyphicons-halflings-sprite-sheet_136
+    21300274: glyphicons-halflings-sprite-sheet_137
+    21300276: glyphicons-halflings-sprite-sheet_138
+    21300278: glyphicons-halflings-sprite-sheet_139
+    21300280: glyphicons-halflings-sprite-sheet_140
+    21300282: glyphicons-halflings-sprite-sheet_141
+    21300284: glyphicons-halflings-sprite-sheet_142
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: glyphicons-halflings-sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 185
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 185
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 185
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 188
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 185
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 186
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 186
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 186
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 184
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 187
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 186
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 186
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 184
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 185
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 186
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 185
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 185
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 184
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 154
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 155
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 154
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 155
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 154
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 155
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 154
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 155
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 154
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 155
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 154
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 153
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 155
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 158
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 158
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 154
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 154
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 154
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 123
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 123
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 124
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 124
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 124
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 125
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 124
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 124
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 124
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 124
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 123
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 124
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 124
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 132
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 132
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 132
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 124
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 124
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 126
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 125
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 124
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 124
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 124
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 93
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 93
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 93
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 95
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 95
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 94
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 93
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 94
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 94
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 94
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 94
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 95
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 95
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 94
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 94
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 95
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 96
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 93
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 93
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 63
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 62
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 62
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 63
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 63
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 61
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 63
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 63
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 64
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 64
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 64
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 63
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 65
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 70
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 62
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 63
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_101
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 68
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_102
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 63
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_105
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 32
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_106
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 31
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_107
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 34
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_108
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_109
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_110
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_111
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 31
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 33
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_113
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 31
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_114
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_115
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 35
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_116
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 35
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_117
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 33
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_118
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 32
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_119
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 32
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_120
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 31
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_121
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 31
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_122
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 36
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_123
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_124
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_125
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_126
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_127
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 3
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_128
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_129
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_130
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 3
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_131
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_132
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_133
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_134
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_135
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_136
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_137
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_138
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_139
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_140
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_141
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 3
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glyphicons-halflings-sprite-sheet_142
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
