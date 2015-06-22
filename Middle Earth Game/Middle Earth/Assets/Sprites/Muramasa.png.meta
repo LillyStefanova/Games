@@ -1,0 +1,1408 @@
+fileFormatVersion: 2
+guid: b9998341a44270340a04057e1b46afc7
+timeCreated: 1434202438
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Muramasa_0
+    21300002: Muramasa_1
+    21300004: Muramasa_2
+    21300006: Muramasa_3
+    21300008: Muramasa_4
+    21300010: Muramasa_5
+    21300012: Muramasa_6
+    21300014: Muramasa_7
+    21300016: Muramasa_8
+    21300018: Muramasa_9
+    21300020: Muramasa_10
+    21300022: Muramasa_11
+    21300024: Muramasa_12
+    21300026: Muramasa_13
+    21300028: Muramasa_14
+    21300030: Muramasa_15
+    21300032: Muramasa_16
+    21300034: Muramasa_17
+    21300036: Muramasa_18
+    21300038: Muramasa_19
+    21300040: Muramasa_20
+    21300042: Muramasa_21
+    21300044: Muramasa_22
+    21300046: Muramasa_23
+    21300048: Muramasa_24
+    21300050: Muramasa_25
+    21300052: Muramasa_26
+    21300054: Muramasa_27
+    21300056: Muramasa_28
+    21300058: Muramasa_29
+    21300060: Muramasa_30
+    21300062: Muramasa_31
+    21300064: Muramasa_32
+    21300066: Muramasa_33
+    21300068: Muramasa_34
+    21300070: Muramasa_35
+    21300072: Muramasa_36
+    21300074: Muramasa_37
+    21300076: Muramasa_38
+    21300078: Muramasa_39
+    21300080: Muramasa_40
+    21300082: Muramasa_41
+    21300084: Muramasa_42
+    21300086: Muramasa_43
+    21300088: Muramasa_44
+    21300090: Muramasa_45
+    21300092: Muramasa_46
+    21300094: Muramasa_47
+    21300096: Muramasa_48
+    21300098: Muramasa_49
+    21300100: Muramasa_50
+    21300102: Muramasa_51
+    21300104: Muramasa_52
+    21300106: Muramasa_53
+    21300108: Muramasa_54
+    21300110: Muramasa_55
+    21300112: Muramasa_56
+    21300114: Muramasa_57
+    21300116: Muramasa_58
+    21300118: Muramasa_59
+    21300120: Muramasa_60
+    21300122: Muramasa_61
+    21300124: Muramasa_62
+    21300126: Muramasa_63
+    21300128: Muramasa_64
+    21300130: Muramasa_65
+    21300132: Muramasa_66
+    21300134: Muramasa_67
+    21300136: Muramasa_68
+    21300138: Muramasa_69
+    21300140: Muramasa_70
+    21300142: Muramasa_71
+    21300144: Muramasa_72
+    21300146: Muramasa_73
+    21300148: Muramasa_74
+    21300150: Muramasa_75
+    21300152: Muramasa_76
+    21300154: Muramasa_77
+    21300156: Muramasa_78
+    21300158: Muramasa_80
+    21300160: Muramasa_81
+    21300162: Muramasa_82
+    21300164: Muramasa_83
+    21300166: Muramasa_86
+    21300168: Muramasa_87
+    21300170: Muramasa_88
+    21300172: Muramasa_90
+    21300174: Muramasa_91
+    21300176: Muramasa_92
+    21300178: Muramasa_93
+    21300180: Muramasa_96
+    21300182: Muramasa_97
+    21300184: Muramasa_98
+    21300186: Muramasa_99
+    21300188: Muramasa_100
+    21300190: Muramasa_101
+    21300192: Muramasa_102
+    21300194: Muramasa_105
+    21300196: Muramasa_106
+    21300198: Muramasa_107
+    21300200: Muramasa_109
+    21300202: Muramasa_110
+    21300204: Muramasa_113
+    21300206: Muramasa_121
+    21300208: Muramasa_122
+    21300210: Muramasa_123
+    21300212: Muramasa_124
+    21300214: Muramasa_125
+    21300216: Muramasa_126
+    21300218: Muramasa_127
+    21300220: Muramasa_108
+    21300222: Muramasa_114
+    21300224: Muramasa_115
+    21300226: Muramasa_116
+    21300228: Muramasa_117
+    21300230: Muramasa_118
+    21300232: Muramasa_111
+    21300234: Muramasa_112
+    21300236: Muramasa_94
+    21300238: Muramasa_89
+    21300240: Muramasa_85
+    21300242: Muramasa_84
+    21300244: Muramasa_79
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Muramasa_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 881
+        width: 64
+        height: 96
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 879
+        width: 64
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 881
+        width: 73
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 881
+        width: 64
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 879
+        width: 64
+        height: 98
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 879
+        width: 64
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_6
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 946
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 962
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_8
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 952
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_9
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 952
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_10
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 952
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_11
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 952
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_12
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 952
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_13
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 952
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_14
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 952
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_15
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 952
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_16
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 952
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_17
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 952
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_18
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 952
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_19
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 952
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_20
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 952
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_21
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 920
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_22
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 942
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_23
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 942
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_24
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 942
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_25
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 942
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_26
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 942
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_27
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 942
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_28
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 942
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_29
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 942
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_30
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 942
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_31
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 942
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_32
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 942
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_33
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 942
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_34
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 942
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_35
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 942
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_36
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 932
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_37
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 932
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_38
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 932
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_39
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 932
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_40
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 932
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_41
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 932
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_42
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 932
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_43
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 932
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_44
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 932
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_45
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 932
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_46
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 932
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_47
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 932
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_48
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_49
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_50
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_51
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_52
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_53
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_54
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_56
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_57
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_58
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_59
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_60
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_61
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 922
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_62
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_63
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_64
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 922
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_65
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 789
+        width: 106
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_66
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 789
+        width: 103
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_67
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 789
+        width: 110
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_68
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 789
+        width: 101
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_69
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 789
+        width: 111
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_70
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 791
+        width: 117
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_71
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 696
+        width: 118
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_72
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 696
+        width: 106
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_73
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 696
+        width: 106
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_74
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 696
+        width: 96
+        height: 60
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_75
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 579
+        width: 68
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_76
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 579
+        width: 64
+        height: 111
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_77
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 579
+        width: 74
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_78
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 579
+        width: 76
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_80
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 579
+        width: 116
+        height: 62
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 437
+        width: 104
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_82
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 437
+        width: 168
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_83
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 437
+        width: 73
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_86
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 437
+        width: 83
+        height: 137
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 309
+        width: 74
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_88
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 309
+        width: 154
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_90
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 309
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_91
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 309
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_92
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 309
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_93
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 309
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_96
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 309
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_97
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 309
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_98
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 309
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_99
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 309
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_100
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 309
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_101
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 309
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_102
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 309
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_105
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 196
+        width: 73
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_106
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 195
+        width: 74
+        height: 104
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_107
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 195
+        width: 60
+        height: 86
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_109
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 195
+        width: 54
+        height: 92
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_110
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 195
+        width: 100
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_113
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 117
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_121
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6
+        width: 71
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_122
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 9
+        width: 75
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_123
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 9
+        width: 129
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_124
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 5
+        width: 114
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_125
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 7
+        width: 68
+        height: 96
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_126
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 7
+        width: 71
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_127
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 9
+        width: 71
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_108
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 102
+        height: 83
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_114
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 115
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_115
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 114
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_116
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 114
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_117
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 116
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_118
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 111
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_111
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_112
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 110
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_94
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 305
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_89
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 306
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_85
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 431
+        width: 129
+        height: 143
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_84
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 433
+        width: 141
+        height: 90
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Muramasa_79
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 565
+        width: 127
+        height: 106
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

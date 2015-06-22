@@ -1,0 +1,64 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0xf31)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Vanko\Documents\GitHub\MiddleEarth_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Vanko\Documents\GitHub\MiddleEarth_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Vanko\Documents\GitHub\MiddleEarth_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Vanko\Documents\GitHub\MiddleEarth_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Vanko\Documents\GitHub\MiddleEarth_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Vanko\Documents\GitHub\MiddleEarth_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.217 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Vanko\Documents\GitHub\MiddleEarth_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Vanko\Documents\GitHub\MiddleEarth_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.954991 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 0.420155 ms (FindLiveObjects: 0.077509 ms CreateObjectMapping: 0.041117 ms MarkObjects: 0.282151 ms  DeleteObjects: 0.017959 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.138144 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 549.
+Total: 0.598332 ms (FindLiveObjects: 0.096886 ms CreateObjectMapping: 0.033555 ms MarkObjects: 0.446149 ms  DeleteObjects: 0.019849 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.674479 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 544.
+Total: 0.748623 ms (FindLiveObjects: 0.108229 ms CreateObjectMapping: 0.034028 ms MarkObjects: 0.471198 ms  DeleteObjects: 0.133277 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.032666 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 547.
+Total: 1.224548 ms (FindLiveObjects: 0.186210 ms CreateObjectMapping: 0.047734 ms MarkObjects: 0.843619 ms  DeleteObjects: 0.146038 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.229274 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 563.
+Total: 0.707978 ms (FindLiveObjects: 0.100667 ms CreateObjectMapping: 0.033083 ms MarkObjects: 0.450403 ms  DeleteObjects: 0.122407 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.441006 ms
+
+Unloading 95 unused Assets to reduce memory usage. Loaded Objects now: 249.
+Total: 1.161217 ms (FindLiveObjects: 0.071837 ms CreateObjectMapping: 0.049152 ms MarkObjects: 0.521295 ms  DeleteObjects: 0.517042 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.108284 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 0.528857 ms (FindLiveObjects: 0.056713 ms CreateObjectMapping: 0.021740 ms MarkObjects: 0.431025 ms  DeleteObjects: 0.018432 ms)
+
